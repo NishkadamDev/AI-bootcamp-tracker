@@ -17,6 +17,7 @@
 | Layer | Tool |
 |---|---|
 | **Language** | Python |
+| **AI** | Claude (Anthropic), Gemini (Google) |
 | **Platform** | Replit |
 
 ---
